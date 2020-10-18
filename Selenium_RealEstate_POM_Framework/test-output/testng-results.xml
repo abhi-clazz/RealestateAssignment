@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-10-18T13:12:26Z" name="Default suite" finished-at="2020-10-18T13:16:21Z" duration-ms="234341">
+    <groups>
+    </groups>
+    <test started-at="2020-10-18T13:12:26Z" name="Default test" finished-at="2020-10-18T13:16:21Z" duration-ms="234341">
+      <class name="com.realestate.sanity.tests.TestCases">
+        <test-method is-config="true" signature="setUpBeforeClass()[pri:0, instance:com.realestate.sanity.tests.TestCases@4d5650ae]" started-at="2020-10-18T18:42:26Z" name="setUpBeforeClass" finished-at="2020-10-18T18:42:26Z" duration-ms="80" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeClass -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.realestate.sanity.tests.TestCases@4d5650ae]" started-at="2020-10-18T18:42:26Z" name="setUp" finished-at="2020-10-18T18:43:04Z" duration-ms="37256" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="deleteProperty()[pri:0, instance:com.realestate.sanity.tests.TestCases@4d5650ae]" started-at="2020-10-18T18:43:04Z" name="deleteProperty" finished-at="2020-10-18T18:43:45Z" duration-ms="41230" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteProperty -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.realestate.sanity.tests.TestCases@4d5650ae]" started-at="2020-10-18T18:43:45Z" name="tearDown" finished-at="2020-10-18T18:43:56Z" duration-ms="11057" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.realestate.sanity.tests.TestCases@4d5650ae]" started-at="2020-10-18T18:43:56Z" name="setUp" finished-at="2020-10-18T18:44:27Z" duration-ms="31338" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="restoreProperty()[pri:1, instance:com.realestate.sanity.tests.TestCases@4d5650ae]" started-at="2020-10-18T18:44:27Z" name="restoreProperty" finished-at="2020-10-18T18:45:12Z" duration-ms="44504" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- restoreProperty -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.realestate.sanity.tests.TestCases@4d5650ae]" started-at="2020-10-18T18:45:12Z" name="tearDown" finished-at="2020-10-18T18:45:17Z" duration-ms="4653" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.realestate.sanity.tests.TestCases@4d5650ae]" started-at="2020-10-18T18:45:17Z" name="setUp" finished-at="2020-10-18T18:45:37Z" duration-ms="20568" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="viewAndReplyToComment()[pri:3, instance:com.realestate.sanity.tests.TestCases@4d5650ae]" started-at="2020-10-18T18:45:37Z" name="viewAndReplyToComment" finished-at="2020-10-18T18:46:16Z" duration-ms="39183" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- viewAndReplyToComment -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.realestate.sanity.tests.TestCases@4d5650ae]" started-at="2020-10-18T18:46:16Z" name="tearDown" finished-at="2020-10-18T18:46:21Z" duration-ms="4351" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.realestate.sanity.tests.TestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
